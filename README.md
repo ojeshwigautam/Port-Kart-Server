@@ -233,7 +233,3 @@ curl -X POST '{{SERVER_URL}}/api/checkout/checkout' \
   - Adding unit / integration tests for controller logic.
 
 ---
-
-If you want, I can:
-- Commit this README and push to a branch, or commit directly to `master`.
-- Generate Postman collection or OpenAPI spec from these endpoints.
